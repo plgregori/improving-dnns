@@ -4,7 +4,7 @@ In this repository, we implement and test several tools for making deep neural n
 
 ## Initialization
 
-First, we check the performance of three kinds of parameter initializations: zeros, large random numbers, and He initialization.
+First, we check the performance of three kinds of parameter initialization: zeros, large random numbers, and He initialization.
 
 <p float="left">
 <img src="./images/Figure_1.png"  width="32%">
@@ -13,6 +13,8 @@ First, we check the performance of three kinds of parameter initializations: zer
 </p>
 
 ## Regularization
+
+Then, on a second dataset, we check the performance of two kinds of regularization: L2 regularization and dropout.
 
 <p float="left">
 <img src="./images/Figure_4.png"  width="32%">
